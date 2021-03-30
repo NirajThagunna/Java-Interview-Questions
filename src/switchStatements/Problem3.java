@@ -43,6 +43,8 @@ public class Problem3 {
  * In switch statements we can't pass the conditions as an expressions
  * 
  * Switch cases make the more readability than if-else statements
+ * 
+ * The value for a case must be a constant(10) or a literal(are the characters - 'A').
  */
 
 
