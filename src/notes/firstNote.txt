@@ -1,0 +1,42 @@
+1) Can we declare a top level class as protected or private in Java?
+
+-> No, we cannot declare a top-level class as private or protected. 
+It can be either public or default (no modifier). 
+If it does not have a modifier, it is supposed to have a default access.
+
+-> If a top-level class is declared as private the compiler will complain that the modifier private is not allowed here.
+-> If a top-level class is declared as protected the compiler will complain that the modifier protected is not allowed here.
+
+-> The top-level classes can only have public, abstract, interface and final modifiers, and it is also possible to not define 
+any class modifiers at all. This is called default/package accessibility.
+
+-> We can declare the inner classes as private or protected, but it is not allowed in outer classes.
+
+-> More than one top-level class can be defined in a Java source file, but there can be at most one public top-level class 
+declaration. The file name must match the name of the public class.
+
+
+2) Is main method compulsory in Java?
+
+-> To compile a program, you doesn’t really need a main method in your program. 
+But, while execution JVM searches for the main method. 
+In the Java the main method is the entry point Whenever you execute a program in Java JVM searches for the main method and 
+starts executing from it.
+
+-> The main method must be public, static, with return type void, and a String array as argument.
+
+-> You can write a program without defining a main it gets compiled without compilation errors. 
+But when you execute it a run time error is generated saying “Main method not found”.
+
+
+3) Does JVM create object of Main class (the class with main())?
+
+-> “No”. 
+We have studied that the reason for main() static in Java is to make sure that the main() can be called without any instance.
+
+
+-> The JVM uses the main() as the starting point for a program just like the int main() in C++.
+
+
+
+
