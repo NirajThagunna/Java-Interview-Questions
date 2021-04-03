@@ -1,0 +1,118 @@
+1) Which of the following is/are an object-oriented programming paradigm?
+
+-> I) Encapsulation
+	II) Inheritance
+	III) Polymorphism
+	IV) Dynamic memory allocation
+	V) Class and object
+	
+Ans : I, II, III and V
+
+
+2) Which of the following statement(s) is/are correct?
+
+-> S1.: The data, or variables, defined within a class are called instance variables.
+	S2: The methods and variables defined within a class are called members of the class.
+	
+Ans : Both S1 and S2
+
+
+3) By which of the following, you can create a general class that defines traits common to a set of related items. This class
+can then be used by other, more specific classes, each adding those things that are unique to it.
+
+-> A: Inheritance
+	B: Abstraction
+	C: Polymorphism
+	D: Object
+	
+	
+Ans : A: Inheritance
+
+
+
+4) Consider a stack(LIFO). You might have a program that requires three types of stacks. One stack is used for integer values,
+one for floating-point values, and one for characters. The algorithm that implements each stack is the same, even though the
+data being stored differs. However, because of the following concept, in Java you can specify a general set of stack routines
+that all share the same names.
+
+-> A: Polymorphism
+	B: Inheritance
+	C: Encapsulation
+	D: Abstraction
+	
+	
+Ans : A: Polymorphism
+
+
+
+5) Which of the following OOPs concepts will provide the access control?
+
+-> A: Encapsulation
+	B: Inheritance
+	C: Abstraction
+	D: Object
+	
+Ans : A: Encapsulation
+
+
+6) Which of the following access specifiers is/are used when inheritance is involved?
+
+-> I) private
+	II) default
+	III) public
+	IV) protected
+	
+	
+Ans : III and IV -> public and protected
+
+
+7) Which of the following statement(s) is/are true?
+	I) public members are inherited.
+	II) private members are not inherited.
+	
+	
+Ans : Both I and II
+
+
+8) Valid syntax to create an object?
+
+	-> Student obj = new Student();
+	
+	
+9) Which of the following access modifiers has the highest visibility to access members?
+
+ 	A: public
+ 	B: private
+ 	C: default
+ 	D: protected
+ 	
+ 	
+Ans : public
+
+
+10) If no any access specifier is mentioned then i.e. default access modifier.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
