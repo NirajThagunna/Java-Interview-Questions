@@ -93,7 +93,9 @@ Ans : public
 10) If no any access specifier is mentioned then i.e. default access modifier.
 	
 	
-	
+Notes : 
+	Local variables are not initialized when they are created at method invocation. Therefore, a local variables must be
+	initialized explicitly before being used.
 	
 	
 	
