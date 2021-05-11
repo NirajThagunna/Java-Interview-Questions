@@ -1,0 +1,2 @@
+A final array means that the array variable which is actually a reference to an object, cannot be changed to refer to anything
+else, but the members of the array can be modified.
